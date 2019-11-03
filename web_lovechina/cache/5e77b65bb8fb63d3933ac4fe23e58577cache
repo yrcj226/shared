@@ -1,0 +1,120 @@
+a:3:{s:4:"time";i:1572616287;s:6:"expire";i:600;s:5:"value";s:7478:"<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-dns-prefetch-control" content="on"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta content="telephone=no" name="format-detection"/>
+    <meta name="version" version="201910311357">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"/>
+
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//wap_new/loseproduct/loseproduct.css?v=201910311357" />
+<title>失效商品</title>
+    <meta name="keywords" content=",爱过云分享"/>
+    <meta name="description" content=""/>
+    <meta itemprop="image" content="_50x50.jpg" />
+    <meta name="api" content="//cmsjapi.ffquan.cn">
+    <meta name="vip-status" content="4">
+    <meta name="uid" content="1321571">
+    <meta name="is-wechat" content="1">
+
+
+    <link rel="apple-touch-icon" href="/touch-icon-iphone.png"/>
+    <link href="/favicon.ico" rel="shortcut icon" />
+    <link href="/favicon.ico" rel="icon">
+    <link href="/touch-icon-iphone.png" rel="Bookmark" />
+
+    <link rel="stylesheet" href="https://cmsstatic.ffquan.cn//wap_new/common/common.css?v=201910311357" />
+    <link rel="stylesheet" href="https://cmsstatic.ffquan.cn//wap_new/main/main.css?v=201910311357" />
+            <script>
+            var standId = 1321571;
+            var getCookie = function(name){
+                var arr,reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");
+                if(arr=document.cookie.match(reg))
+                return unescape(arr[2]);
+                else
+                return null;
+            };
+            var MtaH5={
+                clickShare:function(){},
+                clickStat:function(){},
+                hack:function(){},
+                pgv:function(){}
+            };
+            var _mtac = {"performanceMonitor":1,"senseQuery":1};
+            (function() {
+                var mta = document.createElement("script");
+                mta.src = "//pingjs.qq.com/h5/stats.js?v2.0.4";
+                mta.setAttribute("name", "MTAH5");
+                /*mta.setAttribute("sid", "500628419");
+                mta.setAttribute("cid", "500628420");*/
+                mta.setAttribute("sid", "500625431");
+                mta.setAttribute("cid", "500625432");
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(mta, s);
+            })(); 
+            // DTK统计代码
+            (function() {
+                var script = document.createElement("script");
+                var time = new Date(),FullYear = time.getFullYear(),Month = time.getMonth(),getDate = time.getDate();
+                script.src = "//satc.dataoke.com/dest/js/dtksatc.js?v=20191101215000";
+                script.setAttribute("name", "DTKSATC");
+                script.setAttribute("tid", "dtk-cms-1321571"); // 站点id
+                script.setAttribute("uid", getCookie("user_id")); // 登录用户id
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(script, s); 
+            })(); 
+        </script>
+        <script src="https://cmsstatic.ffquan.cn//wap_new/lib/md5.js?v=201910311357"></script>    <script src="https://cmsstatic.ffquan.cn//wap_new/lib/jquery.js?v=201910311357" type="text/javascript" ></script>
+
+    <script>
+        var ActivityConfig='{"6":{"market_id":"6","front_money_type":"0","base_price_text":"\u5230\u624b","base_price":"\u9884\u552e\u4ef7","base_sale_num_text":"\u5df2\u5b9a","single_wap_label_switch":"1","not_column_label":"https:\/\/img.alicdn.com\/imgextra\/i2\/2053469401\/O1CN01xzD7552JJhyjNK2ST_!!2053469401.png","small_label":"https:\/\/img.alicdn.com\/imgextra\/i2\/2053469401\/O1CN01xzD7552JJhyjNK2ST_!!2053469401.png","normal_label":"https:\/\/img.alicdn.com\/imgextra\/i1\/2053469401\/O1CN01yr6dwF2JJhyloKpjz_!!2053469401.png","long_label":"","single_wap_detail_switch":"1","goods_label":"","mj_switch_wap":"1","mj_text_wap":{"tm_discount_text":"\u8d2d\u7269\u6d25\u8d34\uff0c\u6bcf\u6ee1[\u6ee1\u51cf\u6761\u4ef6\u91d1\u989d]\u51cf[\u51cf\u514d\u91d1\u989d]","tb_discount_text":"\u8de8\u5e97\u6ee1\u51cf\uff0c\u6bcf\u6ee1[\u6ee1\u51cf\u6761\u4ef6\u91d1\u989d]\u51cf[\u51cf\u514d\u91d1\u989d]"},"jh_mb_index_switch":"1","search_name_wap":"\u53cc11\u9884\u552e","top_cate_index_wap":"https:\/\/img.alicdn.com\/imgextra\/i1\/2053469401\/O1CN01Sf1OjG2JJhyja5R8m_!!2053469401.png","jh_mb_page_switch":"1","page_name_wap":"\u53cc11\u9884\u552e","banner_wap":"https:\/\/img.alicdn.com\/imgextra\/i1\/2053469401\/O1CN01sFQwGK2JJhynuWDbB_!!2053469401.png","active_label_wap":"https:\/\/img.alicdn.com\/imgextra\/i1\/2053469401\/O1CN01yr6dwF2JJhyloKpjz_!!2053469401.png","bd_wap_time_switch":"1","bd_wap_day_switch":"1","bd_wap_all_switch":"1","rank_data":[{"bd_name":"\u9884\u552e\u8d8b\u52bf\u699c","bd_desc":"\u9884\u552e\u8d8b\u52bf\u699c","bd_table_logo_one":"https:\/\/img.alicdn.com\/imgextra\/i1\/2053469401\/O1CN01KtQjcP2JJhynKezGk_!!2053469401.png","bd_sort":"3","bd_start_time":"2019-10-21 00:00:00","bd_end_time":"2019-11-10 21:59:59","type":4,"cid":"d","cid_num":5},{"bd_name":"\u9884\u552e\u5168\u5929\u699c","bd_desc":"\u9884\u552e\u5168\u5929\u699c","bd_table_logo_one":"https:\/\/img.alicdn.com\/imgextra\/i1\/2053469401\/O1CN01KtQjcP2JJhynKezGk_!!2053469401.png","bd_sort":"2","bd_start_time":"2019-10-21 00:00:00","bd_end_time":"2019-11-10 21:59:59","type":5,"cid":"e","cid_num":6},{"bd_name":"\u9884\u552e\u603b\u699c","bd_desc":"\u9884\u552e\u603b\u699c","bd_table_logo_one":"https:\/\/img.alicdn.com\/imgextra\/i1\/2053469401\/O1CN01KtQjcP2JJhynKezGk_!!2053469401.png","bd_sort":"1","bd_start_time":"2019-11-10 00:00:00","bd_end_time":"2019-11-10 21:59:59","type":3,"cid":"c","cid_num":7}]}}';
+    </script>
+
+</head>
+
+
+<body data-appid="1321571" data-in="1">
+
+
+<div class="layout ">
+    <div class="loseproduct">
+        <img src="https://cmsstatic.ffquan.cn//wap_new/loseproduct/images/bg.png?v=201910311357" >
+        <h3 class="text-center">哎呀！这个商品已走丢…</h3>
+        <p class="text-center">别慌，我们为你精心准备了以下福利</p>
+        <div class="gohome text-center"><a href='?r=index/wap'>去首页</a></div>
+    </div>
+    <div class="find_product">
+        <div ui-dragload data-callback="upFindProductList" id='find_product_group'>
+            <ul>
+                
+            </ul>
+            <ul>
+
+            </ul>
+        </div>
+    </div>
+</div>
+
+<script>
+    (function(){
+        document.documentElement.style.fontSize = document.documentElement.clientWidth / 3.75 + 'px';
+        $(window).resize(function(){
+            document.documentElement.style.fontSize = document.documentElement.clientWidth / 3.75 + 'px';
+        });
+    }())
+</script>
+<script src="https://cmsstatic.ffquan.cn//wap_new/lib/wui/wui.js?v=201910311357" type="text/javascript" ></script>
+<script src="https://cmsstatic.ffquan.cn//wap_new/common/common.js?v=201910311357" type="text/javascript" ></script>
+
+
+<script src="https://cmsstatic.ffquan.cn//wap_new/common/services/servicesJavaApi.js?v=201910311357" type="text/javascript" ></script>
+
+
+
+<div style="display: none;"></div>
+<script src="https://cmsstatic.ffquan.cn//wap_new/common/models/models-jsencrypt.js?v=201910311357" ></script>
+<script type="text/javascript" src="https://cmsstatic.ffquan.cn//wap_new/loseproduct/js/loseproduct.js?v=201910311357"></script>
+</body>
+</html> 
+";}

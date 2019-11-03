@@ -1,0 +1,338 @@
+a:3:{s:4:"time";i:1572355718;s:6:"expire";i:600;s:5:"value";s:17388:"<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-dns-prefetch-control" content="on"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta content="telephone=no" name="format-detection"/>
+    <meta name="version" version="201910291203">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"/>
+
+    <title> - Wap Index</title>
+    <meta name="keywords" content=",爱过云分享"/>
+    <meta name="description" content=""/>
+    <meta itemprop="image" content="_50x50.jpg" />
+    <meta name="api" content="//cmsjapi.ffquan.cn">
+    <meta name="vip-status" content="4">
+    <meta name="uid" content="1321571">
+    <meta name="is-wechat" content="1">
+
+
+    <link rel="apple-touch-icon" href="/touch-icon-iphone.png"/>
+    <link href="/favicon.ico" rel="shortcut icon" />
+    <link href="/favicon.ico" rel="icon">
+    <link href="/touch-icon-iphone.png" rel="Bookmark" />
+
+    <link rel="stylesheet" href="https://cmsstatic.ffquan.cn//wap_new/common/common.css?v=201910291203" />
+    <link rel="stylesheet" href="https://cmsstatic.ffquan.cn//wap_new/main/main.css?v=201910291203" />
+            <script>
+            var standId = 1321571;
+            var getCookie = function(name){
+                var arr,reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");
+                if(arr=document.cookie.match(reg))
+                return unescape(arr[2]);
+                else
+                return null;
+            };
+            var MtaH5={
+                clickShare:function(){},
+                clickStat:function(){},
+                hack:function(){},
+                pgv:function(){}
+            };
+            var _mtac = {"performanceMonitor":1,"senseQuery":1};
+            (function() {
+                var mta = document.createElement("script");
+                mta.src = "//pingjs.qq.com/h5/stats.js?v2.0.4";
+                mta.setAttribute("name", "MTAH5");
+                /*mta.setAttribute("sid", "500628419");
+                mta.setAttribute("cid", "500628420");*/
+                mta.setAttribute("sid", "500625431");
+                mta.setAttribute("cid", "500625432");
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(mta, s);
+            })(); 
+            // DTK统计代码
+            (function() {
+                var script = document.createElement("script");
+                var time = new Date(),FullYear = time.getFullYear(),Month = time.getMonth(),getDate = time.getDate();
+                script.src = "//satc.dataoke.com/dest/js/dtksatc.js?v=20191029212000";
+                script.setAttribute("name", "DTKSATC");
+                script.setAttribute("tid", "dtk-cms-1321571"); // 站点id
+                script.setAttribute("uid", getCookie("user_id")); // 登录用户id
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(script, s); 
+            })(); 
+        </script>
+        <script src="https://cmsstatic.ffquan.cn//wap_new/lib/md5.js?v=201910291203"></script>    <script src="https://cmsstatic.ffquan.cn//wap_new/lib/jquery.js?v=201910291203" type="text/javascript" ></script>
+
+    <script>
+        var ActivityConfig='{"6":{"market_id":"6","front_money_type":"0","base_price_text":"\u5230\u624b","base_price":"\u9884\u552e\u4ef7","base_sale_num_text":"\u5df2\u5b9a","single_wap_label_switch":"1","not_column_label":"https:\/\/img.alicdn.com\/imgextra\/i2\/2053469401\/O1CN01xzD7552JJhyjNK2ST_!!2053469401.png","small_label":"https:\/\/img.alicdn.com\/imgextra\/i2\/2053469401\/O1CN01xzD7552JJhyjNK2ST_!!2053469401.png","normal_label":"https:\/\/img.alicdn.com\/imgextra\/i1\/2053469401\/O1CN01yr6dwF2JJhyloKpjz_!!2053469401.png","long_label":"","single_wap_detail_switch":"1","goods_label":"","mj_switch_wap":"1","mj_text_wap":{"tm_discount_text":"\u8d2d\u7269\u6d25\u8d34\uff0c\u6bcf\u6ee1[\u6ee1\u51cf\u6761\u4ef6\u91d1\u989d]\u51cf[\u51cf\u514d\u91d1\u989d]","tb_discount_text":"\u8de8\u5e97\u6ee1\u51cf\uff0c\u6bcf\u6ee1[\u6ee1\u51cf\u6761\u4ef6\u91d1\u989d]\u51cf[\u51cf\u514d\u91d1\u989d]"},"jh_mb_index_switch":"1","search_name_wap":"\u53cc11\u9884\u552e","top_cate_index_wap":"https:\/\/img.alicdn.com\/imgextra\/i1\/2053469401\/O1CN01Sf1OjG2JJhyja5R8m_!!2053469401.png","jh_mb_page_switch":"1","page_name_wap":"\u53cc11\u9884\u552e","banner_wap":"https:\/\/img.alicdn.com\/imgextra\/i1\/2053469401\/O1CN01sFQwGK2JJhynuWDbB_!!2053469401.png","active_label_wap":"https:\/\/img.alicdn.com\/imgextra\/i1\/2053469401\/O1CN01yr6dwF2JJhyloKpjz_!!2053469401.png","bd_wap_time_switch":"1","bd_wap_day_switch":"1","bd_wap_all_switch":"1","rank_data":[{"bd_name":"\u9884\u552e\u8d8b\u52bf\u699c","bd_desc":"\u9884\u552e\u8d8b\u52bf\u699c","bd_table_logo_one":"https:\/\/img.alicdn.com\/imgextra\/i1\/2053469401\/O1CN01KtQjcP2JJhynKezGk_!!2053469401.png","bd_sort":"3","bd_start_time":"2019-10-21 00:00:00","bd_end_time":"2019-11-10 21:59:59","type":4,"cid":"d","cid_num":5},{"bd_name":"\u9884\u552e\u5168\u5929\u699c","bd_desc":"\u9884\u552e\u5168\u5929\u699c","bd_table_logo_one":"https:\/\/img.alicdn.com\/imgextra\/i1\/2053469401\/O1CN01KtQjcP2JJhynKezGk_!!2053469401.png","bd_sort":"2","bd_start_time":"2019-10-21 00:00:00","bd_end_time":"2019-11-10 21:59:59","type":5,"cid":"e","cid_num":6},{"bd_name":"\u9884\u552e\u603b\u699c","bd_desc":"\u9884\u552e\u603b\u699c","bd_table_logo_one":"https:\/\/img.alicdn.com\/imgextra\/i1\/2053469401\/O1CN01KtQjcP2JJhynKezGk_!!2053469401.png","bd_sort":"1","bd_start_time":"2019-11-10 00:00:00","bd_end_time":"2019-11-10 21:59:59","type":3,"cid":"c","cid_num":7}]}}';
+    </script>
+
+</head>
+
+
+<body data-appid="1321571" data-in="1">
+
+<div class='new_index'>
+<input type="hidden" name='modelData' value='{"apId":5,"versionId":1449,"topBgColor":"#8D00DB","bottomBgColor":"#B227FF","tkbg1Color":"","tkbg3Color":"","tkbg1Pic":"","tkbg3Pic":"","modelIds":[{"id":12334,"proModelId":19,"bgColor":"","bgImg":""},{"id":12335,"proModelId":2,"bgColor":"","bgImg":""},{"id":12336,"proModelId":13,"bgColor":"","bgImg":""},{"id":12337,"proModelId":20,"bgColor":"","bgImg":""},{"id":12338,"proModelId":19,"bgColor":"","bgImg":""},{"id":12339,"proModelId":21,"bgColor":"","bgImg":""},{"id":12340,"proModelId":16,"bgColor":"","bgImg":""},{"id":12342,"proModelId":5,"bgColor":"","bgImg":""}]}' >
+<div class="banner-bg banner-color">
+    <div class="header_pr banner-color">
+        <header class="index_header banner-color">
+            <a href="?r=index/classify">
+                <div class="wap_search">
+                    <span class="palaceholder"><i class="iconfont icon-search"></i>输入商品名或粘贴宝贝标题搜索</span>
+                </div>
+            </a>
+            <div class="sigin" data-dtk-satc = "{desc:'签到',name:'CmsWapSignEvent'}" >
+               
+            </div>
+            <div class="header-info">
+                <a ui-isLogin href="?r=user/newslist">
+                    <i class="iconfont icon-info"></i><span>消息</span>
+                    <span class="is_info"></span>
+                </a>
+            </div>
+        </header>
+
+    </div>
+    <div class="header_bg banner-color"></div>
+    
+
+
+
+    <div class="ui_bot_tab" style="" data-mta_name="" ui-mta-modular >
+        <div class="row-s">
+                            <div id="cms_wap_home_down"  class="col-10-2 list">
+                    <a data-mold="1" data-el="1" data-dtk-satc="{desc:'首页_1',name:'CmsWapHomeDownEvent'}" data-addr="/index.php?r=index/wap" onclick="window.location.href = '/index.php?r=index/wap'">
+                                                <i class="iconfont"><em><img style="width:24px;height: 24px ;" src="https://img.alicdn.com/imgextra/i1/2053469401/O1CN01tx7Piu2JJhy5Id1tp_!!2053469401.png"></em></i>
+                        <span style="color: rgb(253, 87, 92);
+">首页</span>
+                    </a>
+                </div>
+                            <div id="cms_wap_nine_down"  class="col-10-2 list">
+                    <a data-mold="1" data-el="2" data-dtk-satc="{desc:'9.9包邮_2',name:'CmsWapHomeDownEvent'}" data-addr="/index.php?r=nine/wap" onclick="window.location.href = '/index.php?r=nine/wap'">
+                                                <i class="iconfont"><em><img style="width:24px;height: 24px ;" src="https://img.alicdn.com/imgextra/i2/2053469401/O1CN01IoDVRW2JJhy7uYnhS_!!2053469401.png"></em></i>
+                        <span style="color: rgb(102, 102, 102);
+">9.9包邮</span>
+                    </a>
+                </div>
+                            <div id="cms_wap_classify_down"  class="col-10-2 list">
+                    <a data-mold="1" data-el="3" data-dtk-satc="{desc:'主会场_3',name:'CmsWapHomeDownEvent'}" data-addr="/index.php?r=index/tview&tkl=%EF%BF%A5yUoBYIAFeO4%EF%BF%A5&pic=&color=" onclick="window.location.href = '/index.php?r=index/tview&tkl=%EF%BF%A5yUoBYIAFeO4%EF%BF%A5&pic=&color='">
+                                                <i class="iconfont"><em><img style="width:50px;height: 50px ;" src="https://img.alicdn.com/imgextra/i4/2053469401/O1CN01k3yKgu2JJhyqs7LBb_!!2053469401.gif"></em></i>
+                        <span style="color: rgb(102, 102, 102);
+">主会场</span>
+                    </a>
+                </div>
+                            <div id="cms_wap_favorite_down"  class="col-10-2 list">
+                    <a data-mold="1" data-el="4" data-dtk-satc="{desc:'分类_4',name:'CmsWapHomeDownEvent'}" data-addr="/index.php?r=index/lay" onclick="window.location.href = '/index.php?r=index/lay'">
+                                                <i class="iconfont"><em><img style="width:24px;height: 24px ;" src="https://img.alicdn.com/imgextra/i4/2053469401/O1CN01Ts9O8t2JJhy5zKLZn_!!2053469401.png"></em></i>
+                        <span style="color: rgb(102, 102, 102);
+">分类</span>
+                    </a>
+                </div>
+                            <div id="cms_wap_mine_down"  class="col-10-2 list">
+                    <a data-mold="1" data-el="5" data-dtk-satc="{desc:'我的_5',name:'CmsWapHomeDownEvent'}" data-addr="/index.php?r=user/index" onclick="window.location.href = '/index.php?r=user/index'">
+                                                <i class="iconfont"><em><img style="width:24px;height: 24px ;" src="https://img.alicdn.com/imgextra/i1/2053469401/O1CN015lCWYO2JJhy8Mlr01_!!2053469401.png"></em></i>
+                        <span style="color: rgb(102, 102, 102);
+">我的</span>
+                    </a>
+                </div>
+            
+        </div>
+    </div>
+
+
+    <div class="layout " ui-up-app>
+        <div  class="ui_icon_tab banner-color" ui-classify-java style='background: transparent;'>
+            <span class="loading">loading...</span>
+        </div>
+    </div>
+</div>
+<div class="main">
+    <div>
+        <div class="main-banner-bg banner-color">
+            <div class="banner-arc"></div>
+        </div>
+        <div class="content">
+         <!-- banner -->
+            <div class="main_module_layout">
+            <div data-modelsid="-1" data-promodelid="1" class="banner_swiper show_module" id="homeBanner">
+                <div class="swiper-container home_swiper-container">
+                    <div class="swiper-wrapper" >
+                        <div class="swiper-slide" >
+                            <img src="https://cmsstatic.ffquan.cn//wap_new/home/images/banner-bg.png?v=201910291203" alt="">
+                        </div>
+                    </div>
+                    <div class="swiper-pagination-banner"></div>
+                </div>
+            </div>
+            </div>
+                        
+            
+            
+                        <!-- 首页大型活动模板 -->
+             <div class="main_module_layout" style="" >
+                <div data-modelsid="12334" data-promodelid="19" class="large_activity show_module">
+                    
+                </div>
+            </div>
+            
+            
+            
+            
+
+                                    <!-- 图标导航 -->
+            <div class="main_module_layout" style="" >
+                <div style="padding-top: .05rem;">
+                <div class="nav">
+                    <ul class="nav_ul show_module" data-modelsid="12335" data-proModelId="2">
+                        
+                    </ul>
+                </div>
+                </div>
+            </div>
+            
+            
+            
+            
+            
+            
+            
+
+                        
+            
+                 <div class="main_module_layout" style=" " >
+                    <!-- 优惠头条 -->
+                    <div class="top-line-group show_module" data-modelsid="12336" data-proModelId="13">
+                        
+                    </div>
+                </div>
+            
+            
+            
+            
+            
+            
+
+                        
+            
+                        <!-- 栏目橱窗 -->
+             <div class="main_module_layout" style="" >
+                <div  style="padding-top: .05rem; padding-bottom:.05rem">
+                <div class="activity_list show_module" data-modelsid="12337" data-promodelid="20" id="cms_wap_sale_model" >
+                   
+                </div>
+                </div>
+            </div>
+            
+            
+            
+            
+            
+
+                        
+            
+            
+                        <!-- 首页大型活动模板 -->
+             <div class="main_module_layout" style="" >
+                <div data-modelsid="12338" data-promodelid="19" class="large_activity show_module">
+                    
+                </div>
+            </div>
+            
+            
+            
+            
+
+                        
+            
+            
+            
+            
+                        <!-- 品牌特卖 -->
+            <div class="main_module_layout" style="" >
+                <div  style="padding-top: .05rem; padding-bottom:.05rem">
+                    <div data-modelsid="12339" data-promodelid="21" class="brand_product show_module">
+                        
+                    </div>
+                </div>
+            </div>
+            
+            
+
+                        
+            
+            
+            
+            
+            
+                        <!-- 大家都在领 -->
+            <div class="main_module_layout" style="" >
+                <div  style="padding-top: .05rem; padding-bottom:.05rem">
+                    <div data-modelsid="12340" data-promodelid="16" class="get_coupon show_module">
+                        
+                    </div>
+                </div>
+            </div>
+            
+
+                        
+            
+            
+            
+            
+            
+            
+
+            
+
+            <!-- 发现好货 -->
+            <div class="find_product show_module main_module_layout" data-modelsid="99" data-promodelid="99" >
+                <p class="find_product_info text-center">发现好货</p>
+                <div ui-dragload data-callback="upFindProductList" id='find_product_group'>
+                    <ul>
+                        <!-- <li class="find_product_activity"><img src="" alt=""></li> -->
+                    </ul>
+                    <ul>
+                        
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<input type="hidden" name='pagedata' value='{"apId":5,"versionId":1449,"topBgColor":"#8D00DB","bottomBgColor":"#B227FF","tkbg1Color":"","tkbg3Color":"","tkbg1Pic":"","tkbg3Pic":"","modelIds":[{"id":12334,"proModelId":19,"bgColor":"","bgImg":""},{"id":12335,"proModelId":2,"bgColor":"","bgImg":""},{"id":12336,"proModelId":13,"bgColor":"","bgImg":""},{"id":12337,"proModelId":20,"bgColor":"","bgImg":""},{"id":12338,"proModelId":19,"bgColor":"","bgImg":""},{"id":12339,"proModelId":21,"bgColor":"","bgImg":""},{"id":12340,"proModelId":16,"bgColor":"","bgImg":""},{"id":12342,"proModelId":5,"bgColor":"","bgImg":""}]}' >
+</div>
+<script>
+    (function(){
+        document.documentElement.style.fontSize = document.documentElement.clientWidth / 3.75 + 'px';
+        $(window).resize(function(){
+            document.documentElement.style.fontSize = document.documentElement.clientWidth / 3.75 + 'px';
+        });
+    }())
+</script>
+
+<!-- 网站pc wap通用红包 新版  -->
+<script src="https://cmsstatic.ffquan.cn//lib/redPacket/activityRedPacket.js?v=201910291203"></script>
+
+<!--活动弹窗-->
+<!--活动弹窗-->
+
+<script src="https://cmsstatic.ffquan.cn//wap_new/lib/wui/wui.js?v=201910291203" type="text/javascript" ></script>
+<script src="https://cmsstatic.ffquan.cn//wap_new/common/common.js?v=201910291203" type="text/javascript" ></script>
+
+
+<script src="https://cmsstatic.ffquan.cn//wap_new/common/services/servicesJavaApi.js?v=201910291203" type="text/javascript" ></script>
+
+
+
+<div style="display: none;"></div>
+<script src="https://cmsstatic.ffquan.cn//wap_new/common/models/models-jsencrypt.js?v=201910291203" ></script>
+<script type="text/javascript" src="https://cmsstatic.ffquan.cn//wap_new/home/js/models-new-home.js?v=201910291203"></script>
+<script type="text/javascript" src="https://cmsstatic.ffquan.cn//web/js/cms_ggw_wap.js?v=201910291203"></script>
+</body>
+</html> 
+";}

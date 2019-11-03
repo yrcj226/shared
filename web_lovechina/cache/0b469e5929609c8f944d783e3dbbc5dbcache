@@ -1,0 +1,580 @@
+a:3:{s:4:"time";i:1572528190;s:6:"expire";i:60;s:5:"value";s:34399:"<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="language" content="zh-CN">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1">
+    <meta name="renderer" content="webkit">
+            <script>
+            var standId = 1321571;
+            var MtaH5={
+                clickShare:function(){},
+                clickStat:function(){},
+                hack:function(){},
+                pgv:function(){}
+            };
+            var getCookie = function(name){
+                var arr,reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");
+                if(arr=document.cookie.match(reg))
+                return unescape(arr[2]);
+                else
+                return null;
+            };
+            var _mtac= {"performanceMonitor":1,"senseQuery":1};     
+            (function() { 
+                var mta=document.createElement("script"); 
+                mta.src="//pingjs.qq.com/h5/stats.js?v2.0.4"; 
+                mta.setAttribute("name", "MTAH5");
+                /*mta.setAttribute("sid", "500628441");
+                mta.setAttribute("cid", "500628444");*/
+                mta.setAttribute("sid", "500626642");
+                mta.setAttribute("cid", "500626643");
+
+                var s=document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(mta, s);     
+            })(); 
+            // DTK统计代码
+            (function() {
+                var script = document.createElement("script");
+                var time = new Date(),FullYear = time.getFullYear(),Month = time.getMonth(),getDate = time.getDate();
+                script.src = "//satc.dataoke.com/dest/js/dtksatc.js?v=20191031212000";
+                script.setAttribute("name", "DTKSATC");
+                script.setAttribute("tid", "dtk-cms-1321571"); // 站点id
+                script.setAttribute("uid", getCookie("user_id")); // 登录用户id
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(script, s); 
+            })(); 
+        </script>
+        <script src="https://cmsstatic.ffquan.cn//wap_new/lib/md5.js?v=201910311357"></script>
+             <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/reset.css?v=201910311357">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/footer.css?v=201910311357">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/pager.css?v=201910311357">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/swiper.min.css?v=201910311357">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/dtk.css?v=201910311357">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/new_home.css?v=201910311357">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/share.css?v=201910311357">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//web/css/cms_ggw.css?v=201910311357">
+
+    <!-- 皮肤 S-->
+    <link href="https://cmsstatic.ffquan.cn//web/css/cms_skin/pink.css?v=201910311357" rel="stylesheet">    <!-- 皮肤 E-->
+
+    <link rel="stylesheet" href="https://cmsstatic.ffquan.cn//css/iconfont.css?v=201910311357">
+    <link rel="stylesheet" type="text/css" href="https://cmsstatic.ffquan.cn//css/Coupon.css?v=201910311357" />
+<title>领券优惠直播_爱过云分享</title>
+    <meta name="keywords" content=",爱过云分享"/>
+    <meta name="description" content=""/>
+    <meta name="api" content="//cmsjapi.ffquan.cn">
+    <script src="https://cmsstatic.ffquan.cn/other/jquery/1.12.4/jquery.min.js?v=201910311357"></script>
+    <script src="https://cmsstatic.ffquan.cn//js/layer/layer.js?v=201910311357"></script>
+    <script src="https://cmsstatic.ffquan.cn//js/dtk.js?v=201910311357"></script>
+    <script src="https://cmsstatic.ffquan.cn//js/swiper.min.js?v=201910311357"></script>
+    <script src="https://cmsstatic.ffquan.cn//js/clipboard.min.js?v=201910311357"></script>    
+    <script src="https://cmsstatic.ffquan.cn//js/ZeroClipboard.js?v=201910311357"></script>
+    <script src="https://cmsstatic.ffquan.cn/other/jquery-cookie/1.4.1/jquery.cookie.min.js?v=201910311357"></script>
+
+</head>
+<script>
+    var ActivityConfig='{"6":{"market_id":"6","front_money_type":"0","base_price_text":"\u5230\u624b","base_price":"\u9884\u552e\u4ef7","base_sale_num_text":"\u5df2\u5b9a","single_pc_label_switch":"1","not_column_label":"https:\/\/img.alicdn.com\/imgextra\/i4\/2053469401\/O1CN015zoFfl2JJhyl41I91_!!2053469401.png","small_label":"https:\/\/img.alicdn.com\/imgextra\/i4\/2053469401\/O1CN01vG4BQV2JJhygIIiZb_!!2053469401.png","normal_label":"https:\/\/img.alicdn.com\/imgextra\/i4\/2053469401\/O1CN015zoFfl2JJhyl41I91_!!2053469401.png","long_label":"https:\/\/img.alicdn.com\/imgextra\/i1\/2053469401\/O1CN01m1hGuD2JJhyktCHUg_!!2053469401.png","single_pc_detail_switch":"1","goods_label":"\u53cc11\u9884\u552e","goods_label_img":"https:\/\/img.alicdn.com\/imgextra\/i1\/2053469401\/O1CN01rbauXI2JJhyjZhfg3_!!2053469401.png","mj_switch":"1","tm_discount_text":"\u8d2d\u7269\u6d25\u8d34\uff0c\u6bcf\u6ee1[\u6ee1\u51cf\u6761\u4ef6\u91d1\u989d]\u51cf[\u51cf\u514d\u91d1\u989d]","tb_discount_text":"\u8de8\u5e97\u6ee1\u51cf\uff0c\u6bcf\u6ee1[\u6ee1\u51cf\u6761\u4ef6\u91d1\u989d]\u51cf[\u51cf\u514d\u91d1\u989d]","jh_pc_index_switch":"1","column_index_one":"https:\/\/img.alicdn.com\/imgextra\/i3\/2053469401\/O1CN016l3dAt2JJhyqfLc2y_!!2053469401.gif","column_index_two":"https:\/\/img.alicdn.com\/imgextra\/i3\/2053469401\/O1CN016l3dAt2JJhyqfLc2y_!!2053469401.gif","dressing_index_name":"\u53cc11\u9884\u552e","dressing_index":"https:\/\/img.alicdn.com\/imgextra\/i4\/2053469401\/O1CN010LBkrx2JJhyiu0qoY_!!2053469401.png","bd_index_style":"https:\/\/img.alicdn.com\/imgextra\/i2\/2053469401\/O1CN01jGSKsG2JJhysf4DIH_!!2053469401.gif","bd_pc_time_switch":"1","bd_pc_day_switch":"1","bd_pc_all_switch":"1","rank_data":[{"bd_name":"\u9884\u552e\u8d8b\u52bf\u699c","bd_desc":"\u5b9e\u65f6\u9884\u5b9a\u6298\u6263\u597d\u8d27","bd_table_logo_one":"https:\/\/img.alicdn.com\/imgextra\/i2\/2053469401\/O1CN01JWxRQt2JJhyioiIIA_!!2053469401.png","bd_table_logo_two":"https:\/\/img.alicdn.com\/imgextra\/i4\/2053469401\/O1CN01NkllFq2JJhyl432Uk_!!2053469401.png","bd_sort":"3","bd_banner":"https:\/\/img.alicdn.com\/imgextra\/i3\/2053469401\/O1CN01CoRy6u2JJhyoxQMh7_!!2053469401.jpg","bd_start_time":"2019-10-21 00:00:00","bd_end_time":"2019-11-10 21:59:59","type":5},{"bd_name":"\u9884\u552e\u5168\u5929\u699c","bd_desc":"\u8fd124\u5c0f\u65f6\u5927\u5bb6\u90fd\u5728\u9884\u5b9a","bd_table_logo_one":"https:\/\/img.alicdn.com\/imgextra\/i2\/2053469401\/O1CN01JWxRQt2JJhyioiIIA_!!2053469401.png","bd_table_logo_two":"https:\/\/img.alicdn.com\/imgextra\/i4\/2053469401\/O1CN01NkllFq2JJhyl432Uk_!!2053469401.png","bd_sort":"2","bd_banner":"https:\/\/img.alicdn.com\/imgextra\/i2\/2053469401\/O1CN01erqsXA2JJhymjTlJ0_!!2053469401.jpg","bd_start_time":"2019-10-21 00:00:00","bd_end_time":"2019-11-10 21:59:59","type":6},{"bd_name":"\u9884\u552e\u603b\u699c","bd_desc":"2019\u6700\u5177\u4eba\u6c14\u7684\u5b9a\u91d1\u7206\u6b3e","bd_table_logo_one":"https:\/\/img.alicdn.com\/imgextra\/i2\/2053469401\/O1CN01JWxRQt2JJhyioiIIA_!!2053469401.png","bd_table_logo_two":"https:\/\/img.alicdn.com\/imgextra\/i4\/2053469401\/O1CN01NkllFq2JJhyl432Uk_!!2053469401.png","bd_sort":"1","bd_banner":"https:\/\/img.alicdn.com\/imgextra\/i2\/2053469401\/O1CN018rDnq92JJhyqVHRsz_!!2053469401.jpg","bd_start_time":"2019-11-10 00:00:00","bd_end_time":"2019-11-10 21:59:59","type":7}]}}';
+    var open_red='0';
+</script>
+
+<body data-appid="1321571" data-in="1">
+<!--顶部推荐位s-->
+<div id="content" data-ggwurl="/web_lovechina/index.php?r=index/recomd&t=23">
+    <div id="testTop"></div>
+</div>
+<!--顶部推荐位e-->
+
+<div class="new_home">
+    <div id="headNav">
+        <div id="header">
+            <a class="header_logo" href="/web_lovechina/index.php?r=index/index&u=1321571" style=" background: url('')left top no-repeat;">
+                爱过云分享            </a>
+
+            
+            <div id="showList">
+                <div id="search">
+                    <input type="hidden" name="h_kw" id="h_kw" value="打底裤">
+                    <input type="hidden" name="h_url" id="h_url" value="/web_lovechina/index.php?r=l">
+                    <input type="hidden" name="m_url" id="m_url" value="/web_lovechina/index.php?r=l&kw=%E6%89%93%E5%BA%95%E8%A3%A4&introduce=1">
+                    <form action="/web_lovechina/index.php?r=index/index" method="get">
+                        <input type="hidden" name="input" value="2">
+                        <input type="hidden" name="r" value="l">
+                        <input type="text" autocomplete="off" class="theme-border-color-1 my-src-input" value="反季羽绒服女中长款显瘦大毛领加厚白鸭绒2019新款时尚清仓特价潮" name="kw" placeholder="反季羽绒服女中长款显瘦大毛领加厚白鸭绒2019新款时尚清仓特价潮"/>
+                        <span class="src-close-btn"></span>
+                        <button class="theme-bg-color-1 my-src-btn">搜 索</button>
+                    </form>
+                    <div class="rec_word">
+                                                    <a href="/web_lovechina/index.php?r=l&kw=%E8%80%B3%E6%9C%BA&hot=0" style="color:red;">耳机</a>
+                                                    <a href="/web_lovechina/index.php?r=l&kw=%E5%8F%A3%E7%BA%A2&hot=1" style="">口红</a>
+                                                    <a href="/web_lovechina/index.php?r=l&kw=%E7%9D%A1%E8%A1%A3&hot=2" style="">睡衣</a>
+                                                    <a href="/web_lovechina/index.php?r=l&kw=%E8%A2%9C%E5%AD%90&hot=3" style="color:red;">袜子</a>
+                                                    <a href="/web_lovechina/index.php?r=l&kw=%E4%BF%9D%E6%B8%A9%E6%9D%AF&hot=4" style="">保温杯</a>
+                                                    <a href="/web_lovechina/index.php?r=l&kw=%E9%9B%B6%E9%A3%9F&hot=5" style="">零食</a>
+                                                    <a href="/web_lovechina/index.php?r=p&hot=6" style="color:red;">疯抢榜</a>
+                                                    <a href="/web_lovechina/index.php?r=a/t&i=17fb71dc232b2500&hot=7" style="color:red;">双11超值预售</a>
+                                            </div>
+                    <ul class="search-land">
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <p>关闭</p>
+                    </ul>
+                </div>
+            </div>
+            <img class="head_group fr" src="https://cmsstatic.ffquan.cn//images/home/headgrup.png?v=201910311357" alt="">
+        </div>
+
+        <!--悬浮搜索框s-->
+        
+            <div class="floatNav">
+                <div class="w_1200">
+                    <ul class="fn-left">
+                        <li class="">
+                            <a href="/web_lovechina/index.php?r=index">首页</a>
+                        </li>
+                                                    <li class="">
+
+                                <a href="/web_lovechina/index.php?r=l&cid=4&hot=0"> 居家日用</a>
+                            </li>
+                                                    <li class="">
+
+                                <a href="/web_lovechina/index.php?r=l&cid=6&hot=1"> 美食</a>
+                            </li>
+                                                    <li class="">
+
+                                <a href="/web_lovechina/index.php?r=l&cid=2&hot=2"> 母婴</a>
+                            </li>
+                                                    <li class="">
+
+                                <a href="/web_lovechina/index.php?r=l&cid=3&hot=3"> 美妆</a>
+                            </li>
+                                                    <li class="">
+
+                                <a href="/web_lovechina/index.php?r=l&cid=1&hot=4"> 女装</a>
+                            </li>
+                                                    <li class="">
+
+                                <a href="/web_lovechina/index.php?r=l&cid=8&hot=5"> 数码家电</a>
+                            </li>
+                                                    <li class="">
+
+                                <a href="/web_lovechina/index.php?r=l&cid=7&hot=6"> 文娱车品</a>
+                            </li>
+                                                    <li class="">
+
+                                <a href="/web_lovechina/index.php?r=l&cid=10&hot=7"> 内衣</a>
+                            </li>
+                                                    <li class="">
+
+                                <a href="/web_lovechina/index.php?r=l&cid=14&hot=8"> 家装家纺</a>
+                            </li>
+                                                    <li class="">
+
+                                <a href="/web_lovechina/index.php?r=l&cid=5&hot=9"> 鞋品</a>
+                            </li>
+                                                    <li class="">
+
+                                <a href="/web_lovechina/index.php?r=l&cid=9&hot=10"> 男装</a>
+                            </li>
+                                                    <li class="">
+
+                                <a href="/web_lovechina/index.php?r=l&cid=12&hot=11"> 配饰</a>
+                            </li>
+                                                    <li class="">
+
+                                <a href="/web_lovechina/index.php?r=l&cid=13&hot=12"> 户外运动</a>
+                            </li>
+                                                    <li class="">
+
+                                <a href="/web_lovechina/index.php?r=l&cid=11&hot=13"> 箱包</a>
+                            </li>
+                                            </ul>
+                    <div class="fn-block">
+                        <form action="/web_lovechina/index.php?r=l&kw=%E6%89%93%E5%BA%95%E8%A3%A4" method="get">
+                            <input type="hidden" name="r" value="l">
+                            <input type="text" autocomplete="off" class="fn-src my-src-input" value="" name="kw" placeholder="反季羽绒服女中长款显瘦大毛领加厚白鸭绒2019新款时尚清仓特价潮"/>
+                            <span class="src-close-btn" style="right:55px;top: 3px;"></span>
+                            <button type="submit" class="srcBtn"></button>
+                        </form>
+                        <ul class="search-land" style="top:32px">
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <li></li>
+                            <p>关闭</p
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+                <!--悬浮搜索框e-->
+    </div>
+
+    <div id="baner" class="theme-bg-color-1">
+        <div id="nav">
+            <a data-dtk-satc="{desc:'首页',name:'CmsPcPartEvent'}" href="/web_lovechina/index.php?r=index/index" class="theme-hover-bg-color-8 iconM ">
+                首页
+            </a>
+
+                                    <a class="theme-hover-bg-color-8 iconM double_eleven_presell_entry" href="/web_lovechina/index.php?r=l&at6=1&s=t&u=1"><img src="https://img.alicdn.com/imgextra/i3/2053469401/O1CN016l3dAt2JJhyqfLc2y_!!2053469401.gif"/></a>
+            
+
+            
+            
+            
+            
+            
+            
+                                <a data-dtk-satc="{desc:'双11疯抢榜',name:'CmsPcPartEvent'}"  class="theme-hover-bg-color-8  "  data-ca="l/index----p/index"
+                       href="/web_lovechina/index.php?r=p">
+                        双11疯抢榜                        
+                        
+                        
+                                                    <!-- 榜单角标 -->
+                                                        <i class="hot"><img src="https://img.alicdn.com/imgextra/i2/2053469401/O1CN01jGSKsG2JJhysf4DIH_!!2053469401.gif"/></i>
+                                            </a>
+                                    <a data-dtk-satc="{desc:'9块9包邮',name:'CmsPcPartEvent'}"  class="theme-hover-bg-color-8  "  data-ca="l/index----nine/index"
+                       href="/web_lovechina/index.php?r=nine">
+                        9块9包邮                        
+                        
+                        
+                                            </a>
+                                    <a data-dtk-satc="{desc:'咚咚抢',name:'CmsPcPartEvent'}"  class="theme-hover-bg-color-8  "  data-ca="l/index----ddq/index"
+                       href="/web_lovechina/index.php?r=ddq">
+                        咚咚抢                        
+                        
+                        
+                                            </a>
+                
+
+
+            
+            
+
+
+        </div>
+    </div>
+
+    <div id="dtk_mian">
+        <div class="year-bg">
+            <script src="https://cmsstatic.ffquan.cn//js/common.js?v=201910311357"></script>
+<div class="goods_screen_tab">
+    <a href="/web_lovechina/index.php?r=l&u=1321571" class="all fl">全部商品 <i></i></a>
+    <div class="label-list">
+        
+        
+        
+        
+        
+        
+        
+        <!--
+        
+        
+        
+        
+        
+                -->
+
+        
+
+
+
+    </div>
+    <span class="num"> "反季羽绒服女中长款显瘦大毛领加厚白鸭绒2019新款时尚清仓特价潮" 共 <i>0</i> 款相关商品</span>
+</div>
+<div class="cat-wrap main-container">
+    <div class="cat-list clearfix">
+        <span class="cat-lit-title">类目 : </span>
+        <ul class="clearfix">
+                    </ul>
+    </div>
+
+    
+    
+    <script>
+        if($('.brand.cat-list li').length>10){
+            $('.brand-man').show().on('click',function(){
+                if($(this).hasClass('more')){
+                    $(this).removeClass('more').addClass('less').html('收起');
+                    $('.cat-list.brand').css('height','auto');
+                }else{
+                    $(this).removeClass('less').addClass('more').html('更多');
+                    $('.cat-list.brand').css('height','80px');
+                }
+            });
+        }
+    </script>
+</div>
+<div class="search-all">
+    <div class="tag-wrap main-container clearfix cat-wrap">
+        <div class="fixed-wrap fl theme-a-hover-active-border-top-1">
+            <a
+             data-dtk-satc="{desc:'综合',name:'CmsPcSortEvent'}"
+            href="/web_lovechina/index.php?r=l&at6=0&kw=%E5%8F%8D%E5%AD%A3%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%A5%B3%E4%B8%AD%E9%95%BF%E6%AC%BE%E6%98%BE%E7%98%A6%E5%A4%A7%E6%AF%9B%E9%A2%86%E5%8A%A0%E5%8E%9A%E7%99%BD%E9%B8%AD%E7%BB%922019%E6%96%B0%E6%AC%BE%E6%97%B6%E5%B0%9A%E6%B8%85%E4%BB%93%E7%89%B9%E4%BB%B7%E6%BD%AE&s=t&input=2&u=1321571" class="tag-fixed active">综合</a>
+            <a
+                data-dtk-satc="{desc:'最新',name:'CmsPcSortEvent'}"
+            href="/web_lovechina/index.php?r=l&at6=0&kw=%E5%8F%8D%E5%AD%A3%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%A5%B3%E4%B8%AD%E9%95%BF%E6%AC%BE%E6%98%BE%E7%98%A6%E5%A4%A7%E6%AF%9B%E9%A2%86%E5%8A%A0%E5%8E%9A%E7%99%BD%E9%B8%AD%E7%BB%922019%E6%96%B0%E6%AC%BE%E6%97%B6%E5%B0%9A%E6%B8%85%E4%BB%93%E7%89%B9%E4%BB%B7%E6%BD%AE&s=latest&input=2&u=1321571" class="tag-fixed ">最新</a>
+            <a
+            data-dtk-satc="{desc:'销量',name:'CmsPcSortEvent'}"
+            href="/web_lovechina/index.php?r=l&at6=0&kw=%E5%8F%8D%E5%AD%A3%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%A5%B3%E4%B8%AD%E9%95%BF%E6%AC%BE%E6%98%BE%E7%98%A6%E5%A4%A7%E6%AF%9B%E9%A2%86%E5%8A%A0%E5%8E%9A%E7%99%BD%E9%B8%AD%E7%BB%922019%E6%96%B0%E6%AC%BE%E6%97%B6%E5%B0%9A%E6%B8%85%E4%BB%93%E7%89%B9%E4%BB%B7%E6%BD%AE&s=sell&input=2&u=1321571" class="tag-fixed ">销量</a>
+                        <a
+                data-dtk-satc="{desc:'价格',name:'CmsPcSortEvent'}"
+            href="/web_lovechina/index.php?r=l&at6=0&kw=%E5%8F%8D%E5%AD%A3%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%A5%B3%E4%B8%AD%E9%95%BF%E6%AC%BE%E6%98%BE%E7%98%A6%E5%A4%A7%E6%AF%9B%E9%A2%86%E5%8A%A0%E5%8E%9A%E7%99%BD%E9%B8%AD%E7%BB%922019%E6%96%B0%E6%AC%BE%E6%97%B6%E5%B0%9A%E6%B8%85%E4%BB%93%E7%89%B9%E4%BB%B7%E6%BD%AE&s=price&input=2&u=1321571" class="tag-fixed ">价格</a>
+            <div class="sort-price-area fl">
+                <form action="/web_lovechina/index.php?r=index/index">
+                                                <input type = 'hidden' name="kw"  value="反季羽绒服女中长款显瘦大毛领加厚白鸭绒2019新款时尚清仓特价潮">
+                                                        <input type = 'hidden' name="s"  value="t">
+                                                        <input type = 'hidden' name="u"  value="1321571">
+                                                <input type="hidden" name="r" value="l">
+
+                    <input class="min-price" name="jgqj1" value="" placeholder="￥"/>
+                    <span>-</span>
+                    <input class="max-price" name="jgqj2" value="" placeholder="￥"/>
+                    <button class="theme-bg-color-1 theme-hover-bg-color-3" id="sortSeachSubmit">确认</button>
+                    <a class="clear-price" href="/web_lovechina/index.php?r=l&u=1321571&kw=反季羽绒服女中长款显瘦大毛领加厚白鸭绒2019新款时尚清仓特价潮&s=t&u=1321571">清除</a>
+                </form>
+                <script>
+                    $('#sortSeachSubmit').on('click',  function(event) {
+                        event.preventDefault();
+                        var jgqj1 = $('input[name="jgqj1"]').val();
+                        var jgqj2 = $('input[name="jgqj2"]').val();
+                        /* Act on the event */
+                        if(jgqj1 == "" || jgqj2 == ""){
+                            return false;
+                        }
+                        DTKsatc.eventStat({name:"CmsPcSortEvent",params:{desc:$('input[name="jgqj1"]').val()+'_'+$('input[name="jgqj2"]').val()}})
+                    });
+                </script>
+            </div>
+        </div>
+
+        <div class="goods-pages-page clearfix" style='visibility:hidden'>
+
+                            <span class="pagebtn disabled pre-page"></span>
+            
+            <span class="page-num"><b>1</b>/0</span>
+
+                            <span class="pagebtn next-page"><a href="/web_lovechina/index.php?r=l&at6=0&kw=%E5%8F%8D%E5%AD%A3%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%A5%B3%E4%B8%AD%E9%95%BF%E6%AC%BE%E6%98%BE%E7%98%A6%E5%A4%A7%E6%AF%9B%E9%A2%86%E5%8A%A0%E5%8E%9A%E7%99%BD%E9%B8%AD%E7%BB%922019%E6%96%B0%E6%AC%BE%E6%97%B6%E5%B0%9A%E6%B8%85%E4%BB%93%E7%89%B9%E4%BB%B7%E6%BD%AE&s=t&input=2&u=1321571&page=2"></a></span>
+            
+        </div>
+    </div>
+</div>
+
+
+<div class="cat-wrap main-container sx">
+    <div class="cat-list sale-type clearfix">
+        <ul class="clearfix">
+
+                            <li class="theme-hover-color-1 ">
+                    <a class="theme-a" href="/web_lovechina/index.php?r=l&at6=1&kw=%E5%8F%8D%E5%AD%A3%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%A5%B3%E4%B8%AD%E9%95%BF%E6%AC%BE%E6%98%BE%E7%98%A6%E5%A4%A7%E6%AF%9B%E9%A2%86%E5%8A%A0%E5%8E%9A%E7%99%BD%E9%B8%AD%E7%BB%922019%E6%96%B0%E6%AC%BE%E6%97%B6%E5%B0%9A%E6%B8%85%E4%BB%93%E7%89%B9%E4%BB%B7%E6%BD%AE&s=t&input=2&u=1321571"><i class="theme-i"></i>
+                                                <img style="position: relative;top: 1px; height: 12px; margin-left: 3px" src="https://img.alicdn.com/imgextra/i4/2053469401/O1CN010LBkrx2JJhyiu0qoY_!!2053469401.png" alt="">
+                                            </a>
+                </li>
+            
+
+
+
+            <!--
+
+            
+                    -->
+
+            <li  data-dtk-satc="{desc:'淘抢购',name:'CmsPcShopEvent'}" class="theme-hover-color-1 ">
+                <a class="theme-a" href="/web_lovechina/index.php?r=l&at6=0&kw=%E5%8F%8D%E5%AD%A3%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%A5%B3%E4%B8%AD%E9%95%BF%E6%AC%BE%E6%98%BE%E7%98%A6%E5%A4%A7%E6%AF%9B%E9%A2%86%E5%8A%A0%E5%8E%9A%E7%99%BD%E9%B8%AD%E7%BB%922019%E6%96%B0%E6%AC%BE%E6%97%B6%E5%B0%9A%E6%B8%85%E4%BB%93%E7%89%B9%E4%BB%B7%E6%BD%AE&s=t&input=2&u=1321571&hd=2"><i class="theme-i"></i><span>淘抢购</span></a>
+            </li>
+            <li data-dtk-satc="{desc:'聚划算',name:'CmsPcShopEvent'}" class="theme-hover-color-1 ">
+                <a class="theme-a" href="/web_lovechina/index.php?r=l&at6=0&kw=%E5%8F%8D%E5%AD%A3%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%A5%B3%E4%B8%AD%E9%95%BF%E6%AC%BE%E6%98%BE%E7%98%A6%E5%A4%A7%E6%AF%9B%E9%A2%86%E5%8A%A0%E5%8E%9A%E7%99%BD%E9%B8%AD%E7%BB%922019%E6%96%B0%E6%AC%BE%E6%97%B6%E5%B0%9A%E6%B8%85%E4%BB%93%E7%89%B9%E4%BB%B7%E6%BD%AE&s=t&input=2&u=1321571&hd=3"><i class="theme-i"></i><span>聚划算</span></a>
+            </li>
+            <li data-dtk-satc="{desc:'精选品牌',name:'CmsPcShopEvent'}" class="theme-hover-color-1 ">
+                <a class="theme-a" href="/web_lovechina/index.php?r=l&at6=0&kw=%E5%8F%8D%E5%AD%A3%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%A5%B3%E4%B8%AD%E9%95%BF%E6%AC%BE%E6%98%BE%E7%98%A6%E5%A4%A7%E6%AF%9B%E9%A2%86%E5%8A%A0%E5%8E%9A%E7%99%BD%E9%B8%AD%E7%BB%922019%E6%96%B0%E6%AC%BE%E6%97%B6%E5%B0%9A%E6%B8%85%E4%BB%93%E7%89%B9%E4%BB%B7%E6%BD%AE&s=t&input=2&u=1321571&pinpai=1"><i class="theme-i"></i><span>精选品牌</span></a>
+            </li>
+            <li data-dtk-satc="{desc:'海淘',name:'CmsPcShopEvent'}" class="theme-hover-color-1 ">
+                <a class="theme-a" href="/web_lovechina/index.php?r=l&at6=0&kw=%E5%8F%8D%E5%AD%A3%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%A5%B3%E4%B8%AD%E9%95%BF%E6%AC%BE%E6%98%BE%E7%98%A6%E5%A4%A7%E6%AF%9B%E9%A2%86%E5%8A%A0%E5%8E%9A%E7%99%BD%E9%B8%AD%E7%BB%922019%E6%96%B0%E6%AC%BE%E6%97%B6%E5%B0%9A%E6%B8%85%E4%BB%93%E7%89%B9%E4%BB%B7%E6%BD%AE&s=t&input=2&u=1321571&amoy=1"><i class="theme-i"></i><span>海淘</span></a>
+            </li>
+            <li data-dtk-satc="{desc:'金牌卖家',name:'CmsPcShopEvent'}"  class="theme-hover-color-1 ">
+                <a class="theme-a" href="/web_lovechina/index.php?r=l&at6=0&kw=%E5%8F%8D%E5%AD%A3%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%A5%B3%E4%B8%AD%E9%95%BF%E6%AC%BE%E6%98%BE%E7%98%A6%E5%A4%A7%E6%AF%9B%E9%A2%86%E5%8A%A0%E5%8E%9A%E7%99%BD%E9%B8%AD%E7%BB%922019%E6%96%B0%E6%AC%BE%E6%97%B6%E5%B0%9A%E6%B8%85%E4%BB%93%E7%89%B9%E4%BB%B7%E6%BD%AE&s=t&input=2&u=1321571&tmall=2"><i class="theme-i"></i><span>金牌卖家</span></a>
+            </li>
+            <li data-dtk-satc="{desc:'天猫',name:'CmsPcShopEvent'}" class="theme-hover-color-1 ">
+                <a class="theme-a" href="/web_lovechina/index.php?r=l&at6=0&kw=%E5%8F%8D%E5%AD%A3%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%A5%B3%E4%B8%AD%E9%95%BF%E6%AC%BE%E6%98%BE%E7%98%A6%E5%A4%A7%E6%AF%9B%E9%A2%86%E5%8A%A0%E5%8E%9A%E7%99%BD%E9%B8%AD%E7%BB%922019%E6%96%B0%E6%AC%BE%E6%97%B6%E5%B0%9A%E6%B8%85%E4%BB%93%E7%89%B9%E4%BB%B7%E6%BD%AE&s=t&input=2&u=1321571&tmall=1"><i class="theme-i"></i><span>天猫</span></a>
+            </li>
+
+            <!--
+                        -->
+            
+            
+        </ul>
+    </div>
+</div>
+
+
+    <!--    无数据-->
+    <div class="no-goods qlist">
+        <img src="https://cmsstatic.ffquan.cn//images/quannogoods.png" alt="" width="115" height="103">
+        <p>
+                            抱歉~没有找到相关商品,换个词再试试吧
+                    </p>
+    </div>
+
+
+
+<script>
+    $('.no-result a').click(function(){
+        history.back();
+    });
+    var regNum = new RegExp("^[0-9]*$"),isNotnum = [0,0];
+    var testNum = function(obj,n){
+        if(isNaN(Number(obj.val()))){
+            obj.val('0');
+        }
+        isNotnum[n] = 1;
+    }
+    testNum($('.min-price'),0);
+    testNum($('.max-price'),1);
+
+    $('.min-price').blur(function(){
+        testNum($('.min-price'),0);
+    })
+    $('.max-price').blur(function(){
+        testNum($('.max-price'),1);
+    })
+    $('.sort-price-area form button').click(function(){
+
+        if(isNotnum[0] == 1 && isNotnum[1] == 1 && $.trim($('.max-price').val()) && $.trim($('.min-price').val()) ){
+            var maxNum = Math.max(Number($('.max-price').val()),Number($('.min-price').val())),
+                minNum = Math.min(Number($('.max-price').val()),Number($('.min-price').val()));
+            $('.max-price').val(maxNum);
+            $('.min-price').val(minNum);
+        }
+        $('.sort-price-area form').submit();
+    })
+    $(window).load(function(){
+        /*触发mta 打开详细也统计*/
+        MtaH5.clickStat("showpage",{
+            uid:$cmsApi.getMtaCookie(),
+            time:((new Date()).getHours()<10 ? "0" + (new Date()).getHours() : (new Date()).getHours())+":"+((new Date()).getMinutes()<10 ? "0" + (new Date()).getMinutes() : (new Date()).getMinutes()),
+            name:"类目",
+            'siteid':standId,
+            'domainid':window.location.hostname.replace("www.","")
+        })
+    })
+
+
+    $('.switch-quan').on('click','input',function(){
+        var $this = $(this);
+        if($this.is(':checked')){
+            $this.parent('.switch-quan').removeClass('close').addClass('open');
+        }else{
+            $this.parent('.switch-quan').removeClass('open').addClass('close');
+        }
+    });
+</script>
+        </div>
+    </div>
+
+<script>
+    // 工具栏加入收藏
+    function addFavorite() {
+        var url = window.location;
+        var title = document.title;
+        var ua = navigator.userAgent.toLowerCase();
+        if (ua.indexOf("msie 8") > -1) {
+            external.AddToFavoritesBar(url, title, '');//IE8
+        } else {
+            try {
+                window.external.addFavorite(url, title);
+            } catch (e) {
+                try {
+                    window.sidebar.addPanel(title, url, "");//firefox
+                } catch (e) {
+                    layer.msg("加入收藏失败，请使用Ctrl+D进行添加");
+                }
+            }
+        }
+    }
+
+
+</script>
+
+
+<ul class="float-tool">
+    <li onclick="shoucang('我的网站',location.href)"><img src="https://cmsstatic.ffquan.cn//images/home/sc.png?v=201910311357" alt=""><p>收藏</p></li>
+    <li class="ft-share"><img src="https://cmsstatic.ffquan.cn//images/home/share.png?v=201910311357" alt=""><p>分享</p>
+        <div class="share-platform">
+            <div class="share-platform-r">
+                 <div class="bshare-custom bdsharebuttonbox bdshare-button-style1-32">         
+                    <a title="分享到微信" class="bshare-weixin bds_weixin"></a>
+                    <a title="分享到新浪微博" class="bshare-sinaminiblog bds_tsina"></a>
+                    <a title="分享到QQ好友" class="bshare-qqim bds_sqq"></a>
+                    <a title="分享到QQ空间" class="bshare-qzone bds_qzone"></a>
+                </div>
+            </div>
+        </div>
+
+       
+        <script type="text/javascript" charset="utf-8" src="https://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=3&amp;lang=zh"></script>
+        <script type="text/javascript" charset="utf-8" src="https://static.bshare.cn/b/bshareC0.js"></script>
+
+        
+
+    </li>
+        <li><a href="/web_lovechina/index.php?r=index/feedbackpc" target="_blank"><img src="https://cmsstatic.ffquan.cn//images/home/feedback.png?v=201910311357" alt=""><p>反馈</p></a></li>
+    <li class="to_top" onclick=" $('body,html').animate({scrollTop:0},1000);"><img style="padding-top: 12px;" src="https://cmsstatic.ffquan.cn//images/home/top.png?v=201910311357" alt="" ></li>
+</ul>
+
+<script type="text/javascript">
+    var kw_url = "/web_lovechina/index.php?r=l&kw=%E6%89%93%E5%BA%95%E8%A3%A4";
+    var _url = "/web_lovechina/index.php?r=index/kwarr";   
+</script>
+
+
+
+
+<script src="https://cmsstatic.ffquan.cn//js/new_home.js?v=201910311357"></script>
+
+    <div id="footer" class="com-footer" style="height: auto">
+        <div class="footer-wrapper" style="padding: 45px 0 10px;">
+            <ul>
+                <li>网站导航</li>
+                <li><a href="/web_lovechina/index.php?r=index/index">首页</a></li>
+                <li><a href="/web_lovechina/index.php?r=l">好货精选</a></li>
+                <li><a href="/web_lovechina/index.php?r=p">疯抢榜</a></li>
+                <li><a href="/web_lovechina/index.php?r=ddq">咚咚抢</a></li>
+                <li><a href="/web_lovechina/index.php?r=nine">9.9包邮</a></li>
+            </ul>
+            <p>爱过云分享是一家中立的导购网站，网站中的商品信息均来自于互联网。如商品信息不同，可能是商品信息未及时更新，所有商品信息请以天猫/淘宝店铺内为准。</p>
+
+                        <div class="text">
+                <span>版权所有 本站内容未经书面许可,禁止一切形式的转载</span>
+                <span class="ml">&copy; CopyRight&nbsp;2019</span>
+                <a class="ml" href="//www.cloudlovechina.cn" target="_blank" rel="nofollow">
+                    爱过云分享http://www.cloudlovechina.cn                </a>
+                <a class="miitbeian ml" href="http://www.beian.miit.gov.cn" target="_blank" rel="nofollow">
+                    皖ICP备19019020号                </a>
+                <a href="/web_lovechina/index.php?r=index/feedbackpc" target="_blank" style="margin-left: 20px;text-decoration: underline;">我要反馈</a>
+                <p class="ml" style="text-algin:center;margin: 15px auto;"></p>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="https://cmsstatic.ffquan.cn//js/scrollTop2.js?v=201910311357"></script>
+</body>
+</html>
+
+<script src="https://cmsstatic.ffquan.cn//wap_new/common/models/models-jsencrypt.js?v=201910311357" ></script>";}
